@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/frame0099.jpg" />angga
+    <userInterface showZoomButtons="false" showToolTips="true" showHotspotsButton="false" showFullScreenButton="false" showTogglePlayButton="false" showArrows="true" toolbarAlign="center" toolbarBackColor="#FFFFFF" toolbarHoverColor="#808285" toolbarForeColor="#E3E3E3" toolbarBackAlpha="0.85" toolbarAlpha="0.8" showProgressNumbers="true" showFullScreenToolbar="false" progressLoopColor="#e8e8e8" progressNumColor="#949494" fullScreenBackColor="#FFFFFF" />
+    <control dragSpeed="0.13" maxZoom="200" maxZoomFullScreen="200" fullScreenStretch="100" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" />
+    <rotation firstImage="98" rowSensitivity="15" dragSensitivity="10" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" bounceRows="true" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" />
+  </settings>
+  <hotspots>
+    <hotspot id="spot1" absolutePosition="false" renderMode="0" className="WebRotate360.ImageRotator.Html5HotspotPresenter" indicatorImage="circ-cross-large-red.svg">
+      <spotinfo txt="Finally, we got the 3D / multi-row rotation working. Supports all our regular features including zoom, hotspots, actions, API, full-screen, etc, etc, etc. Feels good! " txtWidth="240" txtBkColor="#FFFFFF" txtColor="#6A6A6A" fntHeight="13" />
+    </hotspot>
+  </hotspots>
+  <images rows="7">
+    <image src="images/frame0001.jpg">
+      <hotspot source="spot1" offsetX="195" offsetY="228" />
+    </image>
+    <image src="images/frame0002.jpg">
+      <hotspot source="spot1" offsetX="171" offsetY="235" />
+    </image>
+    <image src="images/frame0003.jpg">
+      <hotspot source="spot1" offsetX="143" offsetY="234" />
+    </image>
+    <image src="images/frame0004.jpg">
+      <hotspot source="spot1" offsetX="122" offsetY="233" />
+    </image>
+    <image src="images/frame0005.jpg">
+      <hotspot source="spot1" offsetX="97" offsetY="227" />
+    </image>
+    <image src="images/frame0006.jpg">
+      <hotspot source="spot1" offsetX="78" offsetY="216" />
+    </image>
+    <image src="images/frame0007.jpg">
+      <hotspot source="spot1" offsetX="55" offsetY="201" />
+    </image>
+    <image src="images/frame0008.jpg">
+      <hotspot source="spot1" offsetX="41" offsetY="185" />
+    </image>
+    <image src="images/frame0009.jpg">
+      <hotspot source="spot1" offsetX="31" offsetY="168" />
+    </image>
+    <image src="images/frame0010.jpg">
+      <hotspot source="spot1" offsetX="22" offsetY="148" />
+    </image>
+    <image src="images/frame0011.jpg">
+      <hotspot source="spot1" offsetX="20" offsetY="128" />
+    </image>
+    <image src="images/frame0012.jpg">
+      <hotspot source="spot1" offsetX="21" offsetY="108" />
+    </image>
+    <image src="images/frame0013.jpg">
+      <hotspot source="spot1" offsetX="26" offsetY="90" />
+    </image>
+    <image src="images/frame0014.jpg">
+      <hotspot source="spot1" offsetX="35" offsetY="71" />
+    </image>
+    <image src="images/frame0015.jpg">
+      <hotspot source="spot1" offsetX="45" offsetY="57" />
+    </image>
+    <image src="images/frame0016.jpg">
+      <hotspot source="spot1" offsetX="59" offsetY="44" />
+    </image>
+    <image src="images/frame0017.jpg">
+      <hotspot source="spot1" offsetX="77" offsetY="32" />
+    </image>
+    <image src="images/frame0018.jpg">
+      <hotspot source="spot1" offsetX="92" offsetY="23" />
+    </image>
+    <image src="images/frame0019.jpg">
+      <hotspot source="spot1" offsetX="113" offsetY="17" />
+    </image>
+    <image src="images/frame0020.jpg">
+      <hotspot source="spot1" offsetX="132" offsetY="12" />
+    </image>
+    <image src="images/frame0021.jpg">
+      <hotspot source="spot1" offsetX="152" offsetY="11" />
+    </image>
+    <image src="images/frame0022.jpg">
+      <hotspot source="spot1" offsetX="171" offsetY="14" />
+    </image>
+    <image src="images/frame0023.jpg">
+      <hotspot source="spot1" offsetX="190" offsetY="18" />
+    </image>
+    <image src="images/frame0024.jpg">
+      <hotspot source="spot1" offsetX="209" offsetY="26" />
+    </image>
+    <image src="images/frame0025.jpg">
+      <hotspot source="spot1" offsetX="225" offsetY="34" />
+    </image>
+    <image src="images/frame0026.jpg">
+      <hotspot source="spot1" offsetX="240" offsetY="47" />
+    </image>
+    <image src="images/frame0027.jpg">
+      <hotspot source="spot1" offsetX="253" offsetY="59" />
+    </image>
+    <image src="images/frame0028.jpg">
+      <hotspot source="spot1" offsetX="264" offsetY="76" />
+    </image>
+    <image src="images/frame0029.jpg">
+      <hotspot source="spot1" offsetX="273" offsetY="95" />
+    </image>
+    <image src="images/frame0030.jpg">
+      <hotspot source="spot1" offsetX="275" offsetY="112" />
+    </image>
+    <image src="images/frame0031.jpg">
+      <hotspot source="spot1" offsetX="276" offsetY="133" />
+    </image>
+    <image src="images/frame0032.jpg">
+      <hotspot source="spot1" offsetX="271" offsetY="153" />
+    </image>
+    <image src="images/frame0033.jpg">
+      <hotspot source="spot1" offsetX="263" offsetY="171" />
+    </image>
+    <image src="images/frame0034.jpg">
+      <hotspot source="spot1" offsetX="255" offsetY="191" />
+    </image>
+    <image src="images/frame0035.jpg">
+      <hotspot source="spot1" offsetX="235" offsetY="207" />
+    </image>
+    <image src="images/frame0036.jpg">
+      <hotspot source="spot1" offsetX="218" offsetY="218" />
+    </image>
+    <image src="images/frame0037.jpg">
+      <hotspot source="spot1" offsetX="196" offsetY="150" />
+    </image>
+    <image src="images/frame0038.jpg">
+      <hotspot source="spot1" offsetX="174" offsetY="154" />
+    </image>
+    <image src="images/frame0039.jpg">
+      <hotspot source="spot1" offsetX="146" offsetY="156" />
+    </image>
+    <image src="images/frame0040.jpg">
+      <hotspot source="spot1" offsetX="121" offsetY="154" />
+    </image>
+    <image src="images/frame0041.jpg">
+      <hotspot source="spot1" offsetX="94" offsetY="148" />
+    </image>
+    <image src="images/frame0042.jpg">
+      <hotspot source="spot1" offsetX="73" offsetY="143" />
+    </image>
+    <image src="images/frame0043.jpg">
+      <hotspot source="spot1" offsetX="54" offsetY="134" />
+    </image>
+    <image src="images/frame0044.jpg">
+      <hotspot source="spot1" offsetX="42" offsetY="123" />
+    </image>
+    <image src="images/frame0045.jpg">
+      <hotspot source="spot1" offsetX="34" offsetY="115" />
+    </image>
+    <image src="images/frame0046.jpg">
+      <hotspot source="spot1" offsetX="27" offsetY="104" />
+    </image>
+    <image src="images/frame0047.jpg">
+      <hotspot source="spot1" offsetX="26" offsetY="91" />
+    </image>
+    <image src="images/frame0048.jpg">
+      <hotspot source="spot1" offsetX="29" offsetY="80" />
+    </image>
+    <image src="images/frame0049.jpg">
+      <hotspot source="spot1" offsetX="36" offsetY="71" />
+    </image>
+    <image src="images/frame0050.jpg">
+      <hotspot source="spot1" offsetX="45" offsetY="60" />
+    </image>
+    <image src="images/frame0051.jpg">
+      <hotspot source="spot1" offsetX="54" offsetY="54" />
+    </image>
+    <image src="images/frame0052.jpg">
+      <hotspot source="spot1" offsetX="68" offsetY="47" />
+    </image>
+    <image src="images/frame0053.jpg">
+      <hotspot source="spot1" offsetX="84" offsetY="41" />
+    </image>
+    <image src="images/frame0054.jpg">
+      <hotspot source="spot1" offsetX="101" offsetY="37" />
+    </image>
+    <image src="images/frame0055.jpg">
+      <hotspot source="spot1" offsetX="119" offsetY="34" />
+    </image>
+    <image src="images/frame0056.jpg">
+      <hotspot source="spot1" offsetX="135" offsetY="32" />
+    </image>
+    <image src="images/frame0057.jpg">
+      <hotspot source="spot1" offsetX="152" offsetY="32" />
+    </image>
+    <image src="images/frame0058.jpg">
+      <hotspot source="spot1" offsetX="168" offsetY="33" />
+    </image>
+    <image src="images/frame0059.jpg">
+      <hotspot source="spot1" offsetX="186" offsetY="35" />
+    </image>
+    <image src="images/frame0060.jpg">
+      <hotspot source="spot1" offsetX="201" offsetY="38" />
+    </image>
+    <image src="images/frame0061.jpg">
+      <hotspot source="spot1" offsetX="216" offsetY="44" />
+    </image>
+    <image src="images/frame0062.jpg">
+      <hotspot source="spot1" offsetX="231" offsetY="49" />
+    </image>
+    <image src="images/frame0063.jpg">
+      <hotspot source="spot1" offsetX="246" offsetY="55" />
+    </image>
+    <image src="images/frame0064.jpg">
+      <hotspot source="spot1" offsetX="254" offsetY="64" />
+    </image>
+    <image src="images/frame0065.jpg">
+      <hotspot source="spot1" offsetX="262" offsetY="73" />
+    </image>
+    <image src="images/frame0066.jpg">
+      <hotspot source="spot1" offsetX="268" offsetY="84" />
+    </image>
+    <image src="images/frame0067.jpg">
+      <hotspot source="spot1" offsetX="272" offsetY="96" />
+    </image>
+    <image src="images/frame0068.jpg">
+      <hotspot source="spot1" offsetX="270" offsetY="105" />
+    </image>
+    <image src="images/frame0069.jpg">
+      <hotspot source="spot1" offsetX="262" offsetY="116" />
+    </image>
+    <image src="images/frame0070.jpg">
+      <hotspot source="spot1" offsetX="251" offsetY="125" />
+    </image>
+    <image src="images/frame0071.jpg">
+      <hotspot source="spot1" offsetX="238" offsetY="137" />
+    </image>
+    <image src="images/frame0072.jpg">
+      <hotspot source="spot1" offsetX="222" offsetY="143" />
+    </image>
+    <image src="images/frame0073.jpg">
+      <hotspot source="spot1" offsetX="196" offsetY="91" />
+    </image>
+    <image src="images/frame0074.jpg">
+      <hotspot source="spot1" offsetX="172" offsetY="92" />
+    </image>
+    <image src="images/frame0075.jpg">
+      <hotspot source="spot1" offsetX="146" offsetY="93" />
+    </image>
+    <image src="images/frame0076.jpg">
+      <hotspot source="spot1" offsetX="120" offsetY="92" />
+    </image>
+    <image src="images/frame0077.jpg">
+      <hotspot source="spot1" offsetX="95" offsetY="91" />
+    </image>
+    <image src="images/frame0078.jpg">
+      <hotspot source="spot1" offsetX="77" offsetY="89" />
+    </image>
+    <image src="images/frame0079.jpg">
+      <hotspot source="spot1" offsetX="58" offsetY="87" />
+    </image>
+    <image src="images/frame0080.jpg">
+      <hotspot source="spot1" offsetX="42" offsetY="84" />
+    </image>
+    <image src="images/frame0081.jpg">
+      <hotspot source="spot1" offsetX="36" offsetY="81" />
+    </image>
+    <image src="images/frame0082.jpg">
+      <hotspot source="spot1" offsetX="32" offsetY="79" />
+    </image>
+    <image src="images/frame0083.jpg">
+      <hotspot source="spot1" offsetX="31" offsetY="77" />
+    </image>
+    <image src="images/frame0084.jpg">
+      <hotspot source="spot1" offsetX="35" offsetY="73" />
+    </image>
+    <image src="images/frame0085.jpg">
+      <hotspot source="spot1" offsetX="42" offsetY="69" />
+    </image>
+    <image src="images/frame0086.jpg">
+      <hotspot source="spot1" offsetX="51" offsetY="66" />
+    </image>
+    <image src="images/frame0087.jpg">
+      <hotspot source="spot1" offsetX="61" offsetY="64" />
+    </image>
+    <image src="images/frame0088.jpg">
+      <hotspot source="spot1" offsetX="73" offsetY="62" />
+    </image>
+    <image src="images/frame0089.jpg">
+      <hotspot source="spot1" offsetX="86" offsetY="61" />
+    </image>
+    <image src="images/frame0090.jpg">
+      <hotspot source="spot1" offsetX="101" offsetY="60" />
+    </image>
+    <image src="images/frame0091.jpg">
+      <hotspot source="spot1" offsetX="117" offsetY="59" />
+    </image>
+    <image src="images/frame0092.jpg">
+      <hotspot source="spot1" offsetX="135" offsetY="58" />
+    </image>
+    <image src="images/frame0093.jpg">
+      <hotspot source="spot1" offsetX="148" offsetY="59" />
+    </image>
+    <image src="images/frame0094.jpg">
+      <hotspot source="spot1" offsetX="165" offsetY="60" />
+    </image>
+    <image src="images/frame0095.jpg">
+      <hotspot source="spot1" offsetX="183" offsetY="61" />
+    </image>
+    <image src="images/frame0096.jpg">
+      <hotspot source="spot1" offsetX="199" offsetY="61" />
+    </image>
+    <image src="images/frame0097.jpg">
+      <hotspot source="spot1" offsetX="213" offsetY="61" />
+    </image>
+    <image src="images/frame0098.jpg">
+      <hotspot source="spot1" offsetX="226" offsetY="62" />
+    </image>
+    <image src="images/frame0099.jpg">
+      <hotspot source="spot1" offsetX="237" offsetY="64" />
+    </image>
+    <image src="images/frame0100.jpg">
+      <hotspot source="spot1" offsetX="249" offsetY="67" />
+    </image>
+    <image src="images/frame0101.jpg">
+      <hotspot source="spot1" offsetX="256" offsetY="70" />
+    </image>
+    <image src="images/frame0102.jpg">
+      <hotspot source="spot1" offsetX="263" offsetY="73" />
+    </image>
+    <image src="images/frame0103.jpg">
+      <hotspot source="spot1" offsetX="267" offsetY="75" />
+    </image>
+    <image src="images/frame0104.jpg">
+      <hotspot source="spot1" offsetX="265" offsetY="81" />
+    </image>
+    <image src="images/frame0105.jpg">
+      <hotspot source="spot1" offsetX="259" offsetY="82" />
+    </image>
+    <image src="images/frame0106.jpg">
+      <hotspot source="spot1" offsetX="251" offsetY="85" />
+    </image>
+    <image src="images/frame0107.jpg">
+      <hotspot source="spot1" offsetX="237" offsetY="87" />
+    </image>
+    <image src="images/frame0108.jpg">
+      <hotspot source="spot1" offsetX="220" offsetY="91" />
+    </image>
+    <image src="images/frame0109.jpg">
+      <hotspot source="spot1" offsetX="193" offsetY="50" />
+    </image>
+    <image src="images/frame0110.jpg">
+      <hotspot source="spot1" offsetX="170" offsetY="49" />
+    </image>
+    <image src="images/frame0111.jpg">
+      <hotspot source="spot1" offsetX="148" offsetY="50" />
+    </image>
+    <image src="images/frame0112.jpg">
+      <hotspot source="spot1" offsetX="122" offsetY="51" />
+    </image>
+    <image src="images/frame0113.jpg">
+      <hotspot source="spot1" offsetX="100" offsetY="51" />
+    </image>
+    <image src="images/frame0114.jpg">
+      <hotspot source="spot1" offsetX="78" offsetY="53" />
+    </image>
+    <image src="images/frame0115.jpg">
+      <hotspot source="spot1" offsetX="63" offsetY="56" />
+    </image>
+    <image src="images/frame0116.jpg">
+      <hotspot source="spot1" offsetX="51" offsetY="59" />
+    </image>
+    <image src="images/frame0117.jpg">
+      <hotspot source="spot1" offsetX="43" offsetY="63" />
+    </image>
+    <image src="images/frame0118.jpg">
+      <hotspot source="spot1" offsetX="38" offsetY="67" />
+    </image>
+    <image src="images/frame0119.jpg">
+      <hotspot source="spot1" offsetX="37" offsetY="71" />
+    </image>
+    <image src="images/frame0120.jpg">
+      <hotspot source="spot1" offsetX="41" offsetY="73" />
+    </image>
+    <image src="images/frame0121.jpg">
+      <hotspot source="spot1" offsetX="46" offsetY="75" />
+    </image>
+    <image src="images/frame0122.jpg">
+      <hotspot source="spot1" offsetX="53" offsetY="78" />
+    </image>
+    <image src="images/frame0123.jpg" />
+    <image src="images/frame0124.jpg" />
+    <image src="images/frame0125.jpg" />
+    <image src="images/frame0126.jpg" />
+    <image src="images/frame0127.jpg" />
+    <image src="images/frame0128.jpg" />
+    <image src="images/frame0129.jpg" />
+    <image src="images/frame0130.jpg" />
+    <image src="images/frame0131.jpg" />
+    <image src="images/frame0132.jpg" />
+    <image src="images/frame0133.jpg" />
+    <image src="images/frame0134.jpg" />
+    <image src="images/frame0135.jpg">
+      <hotspot source="spot1" offsetX="234" offsetY="78" />
+    </image>
+    <image src="images/frame0136.jpg">
+      <hotspot source="spot1" offsetX="243" offsetY="78" />
+    </image>
+    <image src="images/frame0137.jpg">
+      <hotspot source="spot1" offsetX="252" offsetY="75" />
+    </image>
+    <image src="images/frame0138.jpg">
+      <hotspot source="spot1" offsetX="259" offsetY="71" />
+    </image>
+    <image src="images/frame0139.jpg">
+      <hotspot source="spot1" offsetX="261" offsetY="70" />
+    </image>
+    <image src="images/frame0140.jpg">
+      <hotspot source="spot1" offsetX="259" offsetY="65" />
+    </image>
+    <image src="images/frame0141.jpg">
+      <hotspot source="spot1" offsetX="257" offsetY="62" />
+    </image>
+    <image src="images/frame0142.jpg">
+      <hotspot source="spot1" offsetX="245" offsetY="59" />
+    </image>
+    <image src="images/frame0143.jpg">
+      <hotspot source="spot1" offsetX="232" offsetY="55" />
+    </image>
+    <image src="images/frame0144.jpg">
+      <hotspot source="spot1" offsetX="214" offsetY="52" />
+    </image>
+    <image src="images/frame0145.jpg">
+      <hotspot source="spot1" offsetX="192" offsetY="26" />
+    </image>
+    <image src="images/frame0146.jpg">
+      <hotspot source="spot1" offsetX="169" offsetY="22" />
+    </image>
+    <image src="images/frame0147.jpg">
+      <hotspot source="spot1" offsetX="146" offsetY="22" />
+    </image>
+    <image src="images/frame0148.jpg">
+      <hotspot source="spot1" offsetX="124" offsetY="22" />
+    </image>
+    <image src="images/frame0149.jpg">
+      <hotspot source="spot1" offsetX="102" offsetY="26" />
+    </image>
+    <image src="images/frame0150.jpg">
+      <hotspot source="spot1" offsetX="84" offsetY="31" />
+    </image>
+    <image src="images/frame0151.jpg">
+      <hotspot source="spot1" offsetX="67" offsetY="39" />
+    </image>
+    <image src="images/frame0152.jpg">
+      <hotspot source="spot1" offsetX="57" offsetY="46" />
+    </image>
+    <image src="images/frame0153.jpg">
+      <hotspot source="spot1" offsetX="48" offsetY="56" />
+    </image>
+    <image src="images/frame0154.jpg">
+      <hotspot source="spot1" offsetX="43" offsetY="65" />
+    </image>
+    <image src="images/frame0155.jpg">
+      <hotspot source="spot1" offsetX="44" offsetY="73" />
+    </image>
+    <image src="images/frame0156.jpg">
+      <hotspot source="spot1" offsetX="46" offsetY="81" />
+    </image>
+    <image src="images/frame0157.jpg">
+      <hotspot source="spot1" offsetX="52" offsetY="87" />
+    </image>
+    <image src="images/frame0158.jpg">
+      <hotspot source="spot1" offsetX="59" offsetY="93" />
+    </image>
+    <image src="images/frame0159.jpg" />
+    <image src="images/frame0160.jpg" />
+    <image src="images/frame0161.jpg" />
+    <image src="images/frame0162.jpg" />
+    <image src="images/frame0163.jpg" />
+    <image src="images/frame0164.jpg" />
+    <image src="images/frame0165.jpg" />
+    <image src="images/frame0166.jpg" />
+    <image src="images/frame0167.jpg" />
+    <image src="images/frame0168.jpg" />
+    <image src="images/frame0169.jpg" />
+    <image src="images/frame0170.jpg" />
+    <image src="images/frame0171.jpg" />
+    <image src="images/frame0172.jpg" />
+    <image src="images/frame0173.jpg">
+      <hotspot source="spot1" offsetX="248" offsetY="86" />
+    </image>
+    <image src="images/frame0174.jpg">
+      <hotspot source="spot1" offsetX="253" offsetY="78" />
+    </image>
+    <image src="images/frame0175.jpg">
+      <hotspot source="spot1" offsetX="256" offsetY="70" />
+    </image>
+    <image src="images/frame0176.jpg">
+      <hotspot source="spot1" offsetX="254" offsetY="63" />
+    </image>
+    <image src="images/frame0177.jpg">
+      <hotspot source="spot1" offsetX="249" offsetY="54" />
+    </image>
+    <image src="images/frame0178.jpg">
+      <hotspot source="spot1" offsetX="239" offsetY="45" />
+    </image>
+    <image src="images/frame0179.jpg">
+      <hotspot source="spot1" offsetX="226" offsetY="36" />
+    </image>
+    <image src="images/frame0180.jpg">
+      <hotspot source="spot1" offsetX="210" offsetY="30" />
+    </image>
+    <image src="images/frame0181.jpg">
+      <hotspot source="spot1" offsetX="186" offsetY="16" />
+    </image>
+    <image src="images/frame0182.jpg">
+      <hotspot source="spot1" offsetX="168" offsetY="12" />
+    </image>
+    <image src="images/frame0183.jpg">
+      <hotspot source="spot1" offsetX="149" offsetY="11" />
+    </image>
+    <image src="images/frame0184.jpg">
+      <hotspot source="spot1" offsetX="128" offsetY="14" />
+    </image>
+    <image src="images/frame0185.jpg">
+      <hotspot source="spot1" offsetX="108" offsetY="17" />
+    </image>
+    <image src="images/frame0186.jpg">
+      <hotspot source="spot1" offsetX="92" offsetY="24" />
+    </image>
+    <image src="images/frame0187.jpg">
+      <hotspot source="spot1" offsetX="74" offsetY="34" />
+    </image>
+    <image src="images/frame0188.jpg">
+      <hotspot source="spot1" offsetX="65" offsetY="44" />
+    </image>
+    <image src="images/frame0189.jpg">
+      <hotspot source="spot1" offsetX="55" offsetY="57" />
+    </image>
+    <image src="images/frame0190.jpg">
+      <hotspot source="spot1" offsetX="50" offsetY="70" />
+    </image>
+    <image src="images/frame0191.jpg">
+      <hotspot source="spot1" offsetX="49" offsetY="83" />
+    </image>
+    <image src="images/frame0192.jpg">
+      <hotspot source="spot1" offsetX="49" offsetY="95" />
+    </image>
+    <image src="images/frame0193.jpg">
+      <hotspot source="spot1" offsetX="54" offsetY="104" />
+    </image>
+    <image src="images/frame0194.jpg">
+      <hotspot source="spot1" offsetX="62" offsetY="114" />
+    </image>
+    <image src="images/frame0195.jpg" />
+    <image src="images/frame0196.jpg" />
+    <image src="images/frame0197.jpg" />
+    <image src="images/frame0198.jpg" />
+    <image src="images/frame0199.jpg" />
+    <image src="images/frame0200.jpg" />
+    <image src="images/frame0201.jpg" />
+    <image src="images/frame0202.jpg" />
+    <image src="images/frame0203.jpg" />
+    <image src="images/frame0204.jpg" />
+    <image src="images/frame0205.jpg" />
+    <image src="images/frame0206.jpg" />
+    <image src="images/frame0207.jpg" />
+    <image src="images/frame0208.jpg" />
+    <image src="images/frame0209.jpg" />
+    <image src="images/frame0210.jpg">
+      <hotspot source="spot1" offsetX="248" offsetY="91" />
+    </image>
+    <image src="images/frame0211.jpg">
+      <hotspot source="spot1" offsetX="251" offsetY="81" />
+    </image>
+    <image src="images/frame0212.jpg">
+      <hotspot source="spot1" offsetX="248" offsetY="69" />
+    </image>
+    <image src="images/frame0213.jpg">
+      <hotspot source="spot1" offsetX="242" offsetY="55" />
+    </image>
+    <image src="images/frame0214.jpg">
+      <hotspot source="spot1" offsetX="232" offsetY="41" />
+    </image>
+    <image src="images/frame0215.jpg">
+      <hotspot source="spot1" offsetX="219" offsetY="32" />
+    </image>
+    <image src="images/frame0216.jpg">
+      <hotspot source="spot1" offsetX="202" offsetY="23" />
+    </image>
+    <image src="images/frame0217.jpg">
+      <hotspot source="spot1" offsetX="182" offsetY="29" />
+    </image>
+    <image src="images/frame0218.jpg">
+      <hotspot source="spot1" offsetX="165" offsetY="25" />
+    </image>
+    <image src="images/frame0219.jpg">
+      <hotspot source="spot1" offsetX="147" offsetY="26" />
+    </image>
+    <image src="images/frame0220.jpg">
+      <hotspot source="spot1" offsetX="128" offsetY="27" />
+    </image>
+    <image src="images/frame0221.jpg">
+      <hotspot source="spot1" offsetX="113" offsetY="32" />
+    </image>
+    <image src="images/frame0222.jpg">
+      <hotspot source="spot1" offsetX="98" offsetY="39" />
+    </image>
+    <image src="images/frame0223.jpg">
+      <hotspot source="spot1" offsetX="85" offsetY="50" />
+    </image>
+    <image src="images/frame0224.jpg">
+      <hotspot source="spot1" offsetX="70" offsetY="62" />
+    </image>
+    <image src="images/frame0225.jpg">
+      <hotspot source="spot1" offsetX="63" offsetY="76" />
+    </image>
+    <image src="images/frame0226.jpg">
+      <hotspot source="spot1" offsetX="56" offsetY="87" />
+    </image>
+    <image src="images/frame0227.jpg">
+      <hotspot source="spot1" offsetX="55" offsetY="103" />
+    </image>
+    <image src="images/frame0228.jpg">
+      <hotspot source="spot1" offsetX="55" offsetY="118" />
+    </image>
+    <image src="images/frame0229.jpg">
+      <hotspot source="spot1" offsetX="57" offsetY="136" />
+    </image>
+    <image src="images/frame0230.jpg" />
+    <image src="images/frame0231.jpg" />
+    <image src="images/frame0232.jpg" />
+    <image src="images/frame0233.jpg" />
+    <image src="images/frame0234.jpg" />
+    <image src="images/frame0235.jpg" />
+    <image src="images/frame0236.jpg" />
+    <image src="images/frame0237.jpg" />
+    <image src="images/frame0238.jpg" />
+    <image src="images/frame0239.jpg" />
+    <image src="images/frame0240.jpg" />
+    <image src="images/frame0241.jpg" />
+    <image src="images/frame0242.jpg" />
+    <image src="images/frame0243.jpg" />
+    <image src="images/frame0244.jpg" />
+    <image src="images/frame0245.jpg" />
+    <image src="images/frame0246.jpg" />
+    <image src="images/frame0247.jpg" />
+    <image src="images/frame0248.jpg" />
+    <image src="images/frame0249.jpg" />
+    <image src="images/frame0250.jpg" />
+    <image src="images/frame0251.jpg" />
+    <image src="images/frame0252.jpg" />
+  </images>
+</config>
